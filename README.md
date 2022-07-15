@@ -6,7 +6,7 @@
     *   [ X ] Controller
 *   Authenticate
     *   [ X ] UseCase
-    *   [  ] Controller
+    *   [ X ] Controller
 *   ShowProfile
     *   [  ] UseCase
     *   [  ] Controller

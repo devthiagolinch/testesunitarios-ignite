@@ -2,7 +2,6 @@ import request from "supertest";
 import { Connection, createConnection } from "typeorm";
 
 import { app } from "../../../../app";
-import { AppError } from "../../../../shared/errors/AppError";
 
 
 describe("Create user controller test", () => {

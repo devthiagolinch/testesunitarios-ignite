@@ -14,7 +14,7 @@ services:
     volumes:
       - pgdata:/data/postgres
 
-  finapi:
+  app:
     build: .
     container_name: finapi
     ports:
