@@ -26,10 +26,10 @@ describe("Creating a user", () => {
         expect(user).toHaveProperty("id")
     })
 
-    it("Should not be able to create a existent user", async () => {
+    it("Should not be able to create a existent user by e-mail", async () => {
         await expect(
             createUserUseCase.execute({
-                name: "Thiago",
+                name: "Lua Linch",
                 email: "thiago@thiago.com",
                 password: "12345"
             })
