@@ -3,7 +3,7 @@
 ## Users
 *   CreateUsers
     *   [ x ] UseCase
-    *   [  ] Controller
+    *   [ X ] Controller
 *   Authenticate
     *   [ X ] UseCase
     *   [  ] Controller
