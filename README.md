@@ -8,7 +8,7 @@
     *   [ X ] UseCase
     *   [ X ] Controller
 *   ShowProfile
-    *   [  ] UseCase
+    *   [ X ] UseCase
     *   [  ] Controller
 
 ## Statements
