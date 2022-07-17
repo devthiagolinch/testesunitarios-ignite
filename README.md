@@ -9,12 +9,12 @@
     *   [ X ] Controller
 *   ShowProfile
     *   [ X ] UseCase
-    *   [  ] Controller
+    *   [ X ] Controller
 
 ## Statements
 *   CreateStatement
-    *   [  ] UseCase
-    *   [  ] Controller
+    *   [ X ] UseCase
+    *   [ X ] Controller
 *   GetBalance
     *   [  ] UseCase
     *   [  ] Controller
