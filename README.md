@@ -16,8 +16,8 @@
     *   [ X ] UseCase
     *   [ X ] Controller
 *   GetBalance
-    *   [  ] UseCase
-    *   [  ] Controller
+    *   [ X ] UseCase
+    *   [ X ] Controller
 *   GetStatementOperation
     *   [  ] UseCase
     *   [  ] Controller
