@@ -65,7 +65,6 @@ describe("Create statement - CONTROLLER", () => {
             amount: 30,
             description: "withdraw",
         });
-        console.log(responseStatement)
 
 
         expect(responseStatement.status).toBe(401);

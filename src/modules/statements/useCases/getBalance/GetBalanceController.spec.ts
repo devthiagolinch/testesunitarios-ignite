@@ -54,8 +54,7 @@ describe("Get balance of a user - CONTROLLER", () => {
 
         const token = authenticate.body.token as string;
 
-        const response = await request(app).get("/api/v1/statements/balance").auth(token, { type: "bearer"})
-        console.log(response)
+        const response = await request(app).get("/api/v1/statements/balance").auth(token, { type: "bearer"});
         
         expect(response.body.statement.length).toBe(3)
         expect(response.body.balance).toBe(20)
