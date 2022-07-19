@@ -19,5 +19,5 @@
     *   [ X ] UseCase
     *   [ X ] Controller
 *   GetStatementOperation
-    *   [  ] UseCase
-    *   [  ] Controller
+    *   [ X ] UseCase
+    *   [ X ] Controller
